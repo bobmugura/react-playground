@@ -1,0 +1,24 @@
+[submodule "seasons-react-custom-hooks"]
+	path = seasons-react-custom-hooks
+	url = git@github.com:bobmugura/seasons-react-custom-hooks.git
+[submodule "simple-react-hooks"]
+	path = simple-react-hooks
+	url = git@github.com:bobmugura/simple-react-hooks.git
+[submodule "translate-react-context"]
+	path = translate-react-context
+	url = git@github.com:bobmugura/translate-react-context.git
+[submodule "twitch-streams-app"]
+	path = twitch-streams-app
+	url = git@github.com:bobmugura/twitch-streams-app.git
+[submodule "blog-redux"]
+	path = blog-redux
+	url = git@github.com:bobmugura/blog-redux.git
+[submodule "song-selector-react-redux"]
+	path = song-selector-react-redux
+	url = git@github.com:bobmugura/song-selector-react-redux.git
+[submodule "youtube-browser-react"]
+	path = youtube-browser-react
+	url = git@github.com:bobmugura/youtube-browser-react.git
+[submodule "simple-react"]
+	path = simple-react
+	url = git@github.com:bobmugura/Simple-React.git
